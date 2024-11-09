@@ -1,0 +1,17 @@
+﻿  StringMaster.cpp
+D:\gitPoject\StringMaster\clsString.h(31,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringMaster.cpp')
+  
+D:\gitPoject\StringMaster\clsString.h(35,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringMaster.cpp')
+  
+D:\gitPoject\StringMaster\clsString.h(124,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringMaster.cpp')
+  
+D:\gitPoject\StringMaster\clsString.h(161,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringMaster.cpp')
+  
+D:\gitPoject\StringMaster\clsString.h(188,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringMaster.cpp')
+  
+  StringMaster.vcxproj -> D:\gitPoject\StringMaster\x64\Debug\StringMaster.exe
